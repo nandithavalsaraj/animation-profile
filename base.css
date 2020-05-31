@@ -265,7 +265,21 @@ body{
    background-color: #262626;
    top: 5%;
    left: 8%;
+   -webkit-transform-origin: 50%;
+   -webkit-animation: blink 2s infinite;
 }
+
+
+@-webkit-keyframes blink {
+    0%, 100% {
+        transform: scale(1, .05);
+    }
+    5%,
+    95% {
+        transform: scale(1, 1);
+    }
+}
+
 
 .nose{
   height: 0%;
@@ -546,6 +560,11 @@ body{
   border: thick solid brown;
   border-bottom: none; 
 }
+
+
+
+
+
 
 .grassstalks{
 
