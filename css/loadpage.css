@@ -27,7 +27,7 @@ body{
 	left: 0%;
 	height: 100%;
 	width: 100%;
-	background-image: url(bricks2.jpg);
+	background-image: url(../images/bricks2.jpg);
     background-repeat: no-repeat;
     background-size: 100% 50%;
     border-top: thick solid darkred;
