@@ -505,7 +505,7 @@ body{
   background-color: red;
   cursor: pointer;
   left: 0%;
-  background-image: url(bricks.jpg);
+  background-image: url(../images/bricks.jpg);
   background-size: 8em;
   border: thick solid brown;
   border-bottom: none;
@@ -518,7 +518,7 @@ body{
   background-color: yellow;
   cursor: pointer;
   left: 15%;
-  background-image: url(bricks.jpg);
+  background-image: url(../images/bricks.jpg);
   background-size: 8em;
   border: thick solid brown;
   border-bottom: none;
@@ -530,7 +530,7 @@ body{
   background-color: purple;
   cursor: pointer;
   left: 30%;
-  background-image: url(bricks.jpg);
+  background-image: url(../images/bricks.jpg);
   background-size: 8em;
   border: thick solid brown;
   border-bottom: none;
@@ -542,7 +542,7 @@ body{
   background-color: orange;
   cursor: pointer;
   left: 45%;
-  background-image: url(bricks.jpg);
+  background-image: url(../images/bricks.jpg);
   background-size: 8em;
   border: thick solid brown;
   border-bottom: none;
@@ -554,7 +554,7 @@ body{
   background-color: grey;
   cursor: pointer;
   left: 60%;
-  background-image: url(bricks.jpg);
+  background-image: url(../images/bricks.jpg);
   background-size: 8em;
   border-color: thick solid black;
   border: thick solid brown;
@@ -596,3 +596,5 @@ body{
   left: 30%;
   z-index: -2;
 }
+
+
