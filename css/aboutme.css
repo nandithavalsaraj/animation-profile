@@ -310,13 +310,35 @@ body{
 }
 
 .content{
-  position: relative;
-  left: 30%;
+  position: absolute;
+  left: 0%;
   height: 100%;
   width: 70%;
   margin: 0%;
-  padding: 0%
+  padding: 0%;
 
+}
+
+.LI-profile-badge, .LI-simple-link{
+  position: relative;
+}
+img{
+  height: 100%;
+  width: 100%;
+}
+.side-panel{
+  position: absolute;
+  height: 100%;
+  width: 10%;
+  right: 10%;
+  top: 70%;
+}
+.data-icon{
+  position: relative;
+  height: 10%;
+  width: 100%;
+  margin: 10%;
+  cursor: pointer;
 }
 
 h1, h2, p{
